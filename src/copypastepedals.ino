@@ -4,8 +4,8 @@
 Bounce left_bounce = Bounce();
 Bounce right_bounce = Bounce();
 
-#define LEFT_PIN 10
-#define RIGHT_PIN 4
+#define LEFT_PIN 7
+#define RIGHT_PIN 18
 
 #define DEBOUNCE_INTERVAL 25
 
